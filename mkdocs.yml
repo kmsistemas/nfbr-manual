@@ -1,0 +1,87 @@
+# Project information
+site_name: 'NFbr Manual'
+site_description: 'K&M SISTEMAS DE GESTÃO'
+site_author: 'KM Sistemas'
+site_url: 'https://manual-nfbr.disqus.com'
+
+# Copyright
+copyright: 'Copyright &copy; 2018 K&M Sistemas'
+
+# Configuration
+theme:
+  name: 'material'
+
+  # https://squidfunk.github.io/mkdocs-material/customization/
+  custom_dir: 'custom_theme'
+  logo: 'img/logo.png'
+  favicon: 'assets/images/favicon.ico'
+  language: 'pt'
+  palette:
+    primary: 'green'
+    accent: 'light green'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  feature:
+    tabs: true
+
+# Customization
+extra:
+  social:
+    - type: 'facebook'
+      link: 'https://www.facebook.com/Sistema.Nbr/'
+#    - type: 'google-plus'
+#      link: 'https://plus.google.com/u/0/+KmSistemasBrApucarana'
+  disqus: 'manual-nfbr'
+
+#google_analytics:
+#  - 'UA-XXXXXXXX-X'
+#  - 'auto'
+
+# Extensions
+markdown_extensions:
+  # https://squidfunk.github.io/mkdocs-material/extensions/admonition/
+  - admonition
+
+  # https://squidfunk.github.io/mkdocs-material/extensions/codehilite/
+  - codehilite
+
+  # https://squidfunk.github.io/mkdocs-material/extensions/footnotes/
+  - footnotes
+
+  # https://squidfunk.github.io/mkdocs-material/extensions/metadata/
+  - meta
+
+  # https://squidfunk.github.io/mkdocs-material/extensions/permalinks/
+  - toc:
+      #permalink: true
+      permalink: '«'
+
+  - markdown_include.include:
+        base_path: docs
+
+  # https://squidfunk.github.io/mkdocs-material/extensions/pymdown/
+  #- pymdownx.arithmatex
+  #- pymdownx.betterem:
+  #    smart_enable: all
+  #- pymdownx.caret
+  #- pymdownx.critic
+  #- pymdownx.details
+  #- pymdownx.emoji:
+  #    emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  #- pymdownx.inlinehilite
+  #- pymdownx.magiclink
+  #- pymdownx.mark
+  #- pymdownx.smartsymbols
+  #- pymdownx.superfences
+  #- pymdownx.tasklist:
+  #    custom_checkbox: true
+  #- pymdownx.tilde
+
+# Pages
+pages:
+  - Início: index.md
+  - NFBR:
+    - 'Tela de Login': 'nfbr/cadastro/nfbr-tela-login.md'
+    - 'Cadastro de Produto': 'nfbr/cadastro/nfbr-cadastro-produtos.md'
+    - 'Cadastro de Pessoa': 'nfbr/cadastro/nfbr-cadastro-cliente-fornecedor.md'
