@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "Conhe\u00e7a agora o NFbr\n\u00ab",
+            "text": "Conhe\u00e7a agora o\n\u00ab",
             "title": "In\u00edcio"
         },
         {
-            "location": "/#conheca-agora-o-nfbr",
+            "location": "/#conheca-agora-o",
             "text": "",
-            "title": "Conhe\u00e7a agora o NFbr"
+            "title": "Conhe\u00e7a agora o"
         },
         {
             "location": "/nfbr/cadastro/nfbr-tela-login/",
@@ -32,13 +32,43 @@
         },
         {
             "location": "/nfbr/cadastro/nfbr-cadastro-cliente-fornecedor/",
-            "text": "Cadastro de Clientes e Fornecedor\n\u00ab\n\n\nNa tela inicial, selecione a aba CADASTROS e depois selecione PESSOA.\n\n\n \n\n\nAp\u00f3s digitar seu usu\u00e1rio e senha, uma tela igual a esta ser\u00e1 exibida.",
-            "title": "Cadastro de Pessoa"
+            "text": "Cadastro de Clientes e Fornecedor\n\u00ab\n\n\nNa tela inicial, selecione a aba CADASTROS e depois selecione PESSOA.\n\n\n \n\n\nAp\u00f3s digitar seu usu\u00e1rio e senha, uma tela igual a esta ser\u00e1 exibida.\n\n\n \n\n\nAp\u00f3s ter sido selecionada, uma tela igual a est\u00e1 ser\u00e1 exibida:\n\n\n\n\nCaso voc\u00ea queira cadastrar novos clientes, selecione a op\u00e7\u00e3o NOVO ou aperte a tecla [F3], se deseja procurar ou exibir todos os seus produtos, aperte PROCURAR ou a tecla [F8].\nAp\u00f3s voc\u00ea ter selecionado o bot\u00e3o NOVO, esta tela ser\u00e1 exibida:\n\n\n\n\nComplete os campos com os dados solicitados e n\u00e3o se esque\u00e7a de marcar se a pessoa cadastrada \u00e9 CLIENTE ou FORNECEDOR.\n\n\n\n\nDepois de completo, selecione o bot\u00e3o GRAVAR ou a tecla [F5].\n\n\n\n\nSeu cadastro completo dever\u00e1 ficar parecido com este:",
+            "title": "Cadastro Cliente / Fornecedor"
         },
         {
             "location": "/nfbr/cadastro/nfbr-cadastro-cliente-fornecedor/#cadastro-de-clientes-e-fornecedor",
-            "text": "Na tela inicial, selecione a aba CADASTROS e depois selecione PESSOA.     Ap\u00f3s digitar seu usu\u00e1rio e senha, uma tela igual a esta ser\u00e1 exibida.",
+            "text": "Na tela inicial, selecione a aba CADASTROS e depois selecione PESSOA.     Ap\u00f3s digitar seu usu\u00e1rio e senha, uma tela igual a esta ser\u00e1 exibida.     Ap\u00f3s ter sido selecionada, uma tela igual a est\u00e1 ser\u00e1 exibida:   Caso voc\u00ea queira cadastrar novos clientes, selecione a op\u00e7\u00e3o NOVO ou aperte a tecla [F3], se deseja procurar ou exibir todos os seus produtos, aperte PROCURAR ou a tecla [F8].\nAp\u00f3s voc\u00ea ter selecionado o bot\u00e3o NOVO, esta tela ser\u00e1 exibida:   Complete os campos com os dados solicitados e n\u00e3o se esque\u00e7a de marcar se a pessoa cadastrada \u00e9 CLIENTE ou FORNECEDOR.   Depois de completo, selecione o bot\u00e3o GRAVAR ou a tecla [F5].   Seu cadastro completo dever\u00e1 ficar parecido com este:",
             "title": "Cadastro de Clientes e Fornecedor"
+        },
+        {
+            "location": "/nfbr/cadastro/nfbr-emissao-nfce/",
+            "text": "Emiss\u00e3o de NFCe\n\u00ab\n\n\nAgora que temos produtos cadastrados podemos enfim emitir o cupom fiscal. Na tela inicial aperte no bot\u00e3o NFCe ou a tecla [F5].\n\n\nAp\u00f3s ter sido selecionada, uma tela igual a est\u00e1 ser\u00e1 exibida:\n\n\n \n\n\nInsira o c\u00f3digo ou nome do produto no campo em verde. Caso n\u00e3o lembre o c\u00f3digo do produto clique no bot\u00e3o Localizar Produto.\n\n\n \n\n\nAp\u00f3s colocar o produto ele aparecer\u00e1 conforme a imagem abaixo, para colocar mais produtos basta fazer o mesmo processo. Voc\u00ea pode acompanhar o pre\u00e7o total da venda olhando o campo a Direita da tela.\n\n\n \n\n\nAo colocar todos os produtos e conferir o valor total da nota, clique no bot\u00e3o ENCERRAR VENDA ou aperte a tecla [F10].\nComplete os dados da forma de pagamento, desconto (se houver), e clique na lupa se quiser adicionar o cliente na venda.\nAp\u00f3s estes processos pressione novamente a tecla [F10] ou aperte o bot\u00e3o EMITIR NOTA.\n\n\n \n\n\nSua nota ser\u00e1 emitida e a tela de impress\u00e3o ser\u00e1 exibida automaticamente em sua tela.",
+            "title": "Emiss\u00e3o NFCE"
+        },
+        {
+            "location": "/nfbr/cadastro/nfbr-emissao-nfce/#emissao-de-nfce",
+            "text": "Agora que temos produtos cadastrados podemos enfim emitir o cupom fiscal. Na tela inicial aperte no bot\u00e3o NFCe ou a tecla [F5].  Ap\u00f3s ter sido selecionada, uma tela igual a est\u00e1 ser\u00e1 exibida:     Insira o c\u00f3digo ou nome do produto no campo em verde. Caso n\u00e3o lembre o c\u00f3digo do produto clique no bot\u00e3o Localizar Produto.     Ap\u00f3s colocar o produto ele aparecer\u00e1 conforme a imagem abaixo, para colocar mais produtos basta fazer o mesmo processo. Voc\u00ea pode acompanhar o pre\u00e7o total da venda olhando o campo a Direita da tela.     Ao colocar todos os produtos e conferir o valor total da nota, clique no bot\u00e3o ENCERRAR VENDA ou aperte a tecla [F10].\nComplete os dados da forma de pagamento, desconto (se houver), e clique na lupa se quiser adicionar o cliente na venda.\nAp\u00f3s estes processos pressione novamente a tecla [F10] ou aperte o bot\u00e3o EMITIR NOTA.     Sua nota ser\u00e1 emitida e a tela de impress\u00e3o ser\u00e1 exibida automaticamente em sua tela.",
+            "title": "Emiss\u00e3o de NFCe"
+        },
+        {
+            "location": "/nfbr/cadastro/nfbr-cancelamento-nfce/",
+            "text": "Cancelamento de NFCE\n\u00ab\n\n\nPara realizar o cancelamento devemos voltar at\u00e9 a tela inicial e selecionar o bot\u00e3o Monitor NFCe.\n\n\n \n\n\nAo selecionar o bot\u00e3o, uma tela igual a esta ser\u00e1 exibida:\n\n\n \n\n\nPara listar todas as notas, selecione a DATA INICIAL e depois a DATA FINAL e pressione o PESQUISAR ou a tecla [F8].\nAp\u00f3s a listagem, voc\u00ea poder\u00e1 utilizar os bot\u00f5es de CANCELAMENTO, VISUALIZAR NFCE, ENVIAR EMAIL, INUTILIZA\u00c7AO.\n\n\n \n\n\nVoc\u00ea pode efetuar o cancelamento se ainda estiver dentro do prazo (VERIFICAR COM SUA CONTABILIDADE O PRAZO DE CANCELAMENTO), apertando o bot\u00e3o Cancelar NFCe e confirmar o cancelamento.\n\n\n\n\nSe o cancelamento for conclu\u00eddo com sucesso, o campo DATA CANCELAMENTO ser\u00e1 preenchido.",
+            "title": "Cancelamento NFCE"
+        },
+        {
+            "location": "/nfbr/cadastro/nfbr-cancelamento-nfce/#cancelamento-de-nfce",
+            "text": "Para realizar o cancelamento devemos voltar at\u00e9 a tela inicial e selecionar o bot\u00e3o Monitor NFCe.     Ao selecionar o bot\u00e3o, uma tela igual a esta ser\u00e1 exibida:     Para listar todas as notas, selecione a DATA INICIAL e depois a DATA FINAL e pressione o PESQUISAR ou a tecla [F8].\nAp\u00f3s a listagem, voc\u00ea poder\u00e1 utilizar os bot\u00f5es de CANCELAMENTO, VISUALIZAR NFCE, ENVIAR EMAIL, INUTILIZA\u00c7AO.     Voc\u00ea pode efetuar o cancelamento se ainda estiver dentro do prazo (VERIFICAR COM SUA CONTABILIDADE O PRAZO DE CANCELAMENTO), apertando o bot\u00e3o Cancelar NFCe e confirmar o cancelamento.   Se o cancelamento for conclu\u00eddo com sucesso, o campo DATA CANCELAMENTO ser\u00e1 preenchido.",
+            "title": "Cancelamento de NFCE"
+        },
+        {
+            "location": "/nfbr/cadastro/nfbr-inutilizacao/",
+            "text": "Inutiliza\u00e7\u00e3o\n\u00ab\n\n\nPara realizar o inutiliza\u00e7ao devemos voltar at\u00e9 a tela inicial e selecionar o bot\u00e3o Monitor NFCe.\n\n\n \n\n\nAo selecionar o bot\u00e3o, uma tela igual a esta ser\u00e1 exibida:\n\n\n \n\n\nDentro do Monitor de NFCe, voc\u00ea dever\u00e1 selecionar o bot\u00e3o INUTILIZA\u00c7\u00d5ES.\n\n\n \n\n\nPreencha os campos solicitados e pressione o INUTILIZAR.\n\n\n\n\nCaso seja inutilizada com sucesso ela ir\u00e1 aparecer no canto esquerdo com a DATA INUTILIZA\u00c7\u00c3O preenchida.",
+            "title": "Inutiliza\u00e7\u00e3o"
+        },
+        {
+            "location": "/nfbr/cadastro/nfbr-inutilizacao/#inutilizacao",
+            "text": "Para realizar o inutiliza\u00e7ao devemos voltar at\u00e9 a tela inicial e selecionar o bot\u00e3o Monitor NFCe.     Ao selecionar o bot\u00e3o, uma tela igual a esta ser\u00e1 exibida:     Dentro do Monitor de NFCe, voc\u00ea dever\u00e1 selecionar o bot\u00e3o INUTILIZA\u00c7\u00d5ES.     Preencha os campos solicitados e pressione o INUTILIZAR.   Caso seja inutilizada com sucesso ela ir\u00e1 aparecer no canto esquerdo com a DATA INUTILIZA\u00c7\u00c3O preenchida.",
+            "title": "Inutiliza\u00e7\u00e3o"
         }
     ]
 }
