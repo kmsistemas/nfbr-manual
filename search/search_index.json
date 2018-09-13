@@ -12,12 +12,12 @@
         },
         {
             "location": "/nfbr/cadastro/nfbr-tela-login/",
-            "text": "Tela de Login\n\u00ab\n\n\nPrimeiramente, insira seu usu\u00e1rio e senha.\n\n\n \n\n\nAp\u00f3s digitar seu usu\u00e1rio e senha, uma tela igual a esta ser\u00e1 exibida.",
+            "text": "Tela de Login\n\u00ab\n\n\nInsira seu email e senha e aperte no \n  .\n\n\n \n\n\nAp\u00f3s digitar seu usu\u00e1rio e senha, uma tela igual a esta ser\u00e1 exibida.\n\n\n \n\n\nVeja que nesta tela inicial, ter\u00e1 alguns bot\u00f5es de atalhos e algumas informa\u00e7\u00f5es de notas ficais e venda em aberto!",
             "title": "Tela de Login"
         },
         {
             "location": "/nfbr/cadastro/nfbr-tela-login/#tela-de-login",
-            "text": "Primeiramente, insira seu usu\u00e1rio e senha.     Ap\u00f3s digitar seu usu\u00e1rio e senha, uma tela igual a esta ser\u00e1 exibida.",
+            "text": "Insira seu email e senha e aperte no    .     Ap\u00f3s digitar seu usu\u00e1rio e senha, uma tela igual a esta ser\u00e1 exibida.     Veja que nesta tela inicial, ter\u00e1 alguns bot\u00f5es de atalhos e algumas informa\u00e7\u00f5es de notas ficais e venda em aberto!",
             "title": "Tela de Login"
         },
         {
