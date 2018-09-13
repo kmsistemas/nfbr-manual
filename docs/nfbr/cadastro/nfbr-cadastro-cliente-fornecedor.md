@@ -1,30 +1,25 @@
 # Cadastro de Clientes e Fornecedor
 
-Na tela inicial, selecione a aba CADASTROS e depois selecione PESSOA.
+Na tela inicial, selecione a aba *CADASTROS* e depois selecione *PESSOA*.
 
 ![8](/nfbr/img/8.png) 
 
-Após digitar seu usuário e senha, uma tela igual a esta será exibida.
+Uma tela igual a está será exibida, onde pode pesquisar os cliente e fornecedores cadastrados ou incluir um novo clicando no ![15](/nfbr/img/24.png) 
 
 ![9](/nfbr/img/9.png) 
 
-Após ter sido selecionada, uma tela igual a está será exibida:
+Uma tela igual a está será exibida:
 
 ![10](/nfbr/img/10.png)
 
-Caso você queira cadastrar novos clientes, selecione a opção NOVO ou aperte a tecla [F3], se deseja procurar ou exibir todos os seus produtos, aperte PROCURAR ou a tecla [F8].
-Após você ter selecionado o botão NOVO, esta tela será exibida:
+Lembre de selecionar o que esta cadastrando, Cliente ou Fornecedor!
 
 ![11](/nfbr/img/11.png)
 
-Complete os campos com os dados solicitados e não se esqueça de marcar se a pessoa cadastrada é CLIENTE ou FORNECEDOR.
-
-![12](/nfbr/img/12.png)
-
-Depois de completo, selecione o botão GRAVAR ou a tecla [F5].
-
-![13](/nfbr/img/13.png)
+Preencha os campos com os dados solicitados,depois de preenchido, clique no botão ![12](/nfbr/img/12.png) ou a tecla de atalho ![16](/nfbr/img/25.png).		
 
 Seu cadastro completo deverá ficar parecido com este:
+![13](/nfbr/img/13.png)
 
-![14](/nfbr/img/14.png)
+Pode clicar no botão ![17](/nfbr/img/26.png) e Pronto seu cadastro foi realizado com sucesso!
+

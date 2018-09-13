@@ -1,20 +1,20 @@
 # Cadastro de Produtos
 
 
-Para abrir o Cadastro de Produtos clique no ícone PRODUTO ou aperte a tecla [F3].
-Após ter sido selecionada, uma tela igual a esta será exibida:
+Para abrir o Cadastro de Produtos clique no ícone ![1](/nfbr/img/27.png) ou aperte a tecla [F3].
+Após ter clicado, uma tela igual a esta será exibida:
 
 ![3](/nfbr/img/3.png)
 
-Caso você queira cadastrar novos produtos, selecione a opção NOVO ou aperte a tecla [F3], se deseja procurar ou exibir todos os seus produtos, aperte PROCURAR ou a tecla [F8].
+Caso você queira cadastrar novos produtos, selecione a opção ![2](/nfbr/img/28.png) ou aperte a tecla [F3], se deseja procurar ou exibir todos os seus produtos, aperte ![3](/nfbr/img/29.png) ou a tecla [F8].
 
-Após você ter selecionado o botão NOVO, esta tela será exibida:
+Após você ter selecionado o botão ![2](/nfbr/img/28.png), esta tela será exibida:
 
 ![4](/nfbr/img/4.png)
 
 Complete os campos a seguir com as seguintes informações.
 
-Código: Informe um codigo para seu produto.
+Código: Informe um código para seu produto.
 
 Descrição: Nome do produto que está a ser cadastrado.
 
@@ -32,4 +32,4 @@ Com o auxilio do seu contador, preencha os demais campos da imagem abaixo.
 
 ![6](/nfbr/img/6.png)
 
-Depois de completo, selecione o botão GRAVAR ou a tecla [F5].
+Depois de completo, selecione o botão ![12](/nfbr/img/12.png) ou a tecla [F5].
