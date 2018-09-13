@@ -27,12 +27,14 @@
      <changefreq>daily</changefreq>
     </url>
         
-    
-
-    
-        
     <url>
      <loc>https://manual-nfbr.disqus.com/nfbr/cadastro/nfbr-cadastro-cliente-fornecedor/</loc>
+     <lastmod>2018-09-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://manual-nfbr.disqus.com/nfbr/cadastro/entrada-produto/</loc>
      <lastmod>2018-09-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -47,19 +49,11 @@
      <changefreq>daily</changefreq>
     </url>
         
-    
-
-    
-        
     <url>
      <loc>https://manual-nfbr.disqus.com/nfbr/cadastro/nfbr-cancelamento-nfce/</loc>
      <lastmod>2018-09-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
         
     <url>
      <loc>https://manual-nfbr.disqus.com/nfbr/cadastro/nfbr-inutilizacao/</loc>
