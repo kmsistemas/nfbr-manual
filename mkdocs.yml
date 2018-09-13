@@ -81,15 +81,13 @@ markdown_extensions:
 # Pages
 pages:
   - Início: index.md
-  - Tela de Login:
+  - Login:
     - 'Tela de Login': 'nfbr/cadastro/nfbr-tela-login.md'
-  - Cadastro de Produto:
+  - Cadastros:
     - 'Cadastro de Produto': 'nfbr/cadastro/nfbr-cadastro-produtos.md'
-  - Cadastro Cliente / Fornecedor:
     - 'Cadastro Cliente / Fornecedor': 'nfbr/cadastro/nfbr-cadastro-cliente-fornecedor.md'
-  - Emissão NFCE:
+    - 'Entrada de Produto': 'nfbr/cadastro/entrada-produto.md'
+  - PDV:
     - 'Emissão NFCE': 'nfbr/cadastro/nfbr-emissao-nfce.md'
-  - Cancelamento NFCE:
     - 'Cancelamento NFCE': 'nfbr/cadastro/nfbr-cancelamento-nfce.md'
-  - Inutilização:
     - 'Inutilização': 'nfbr/cadastro/nfbr-inutilizacao.md'
