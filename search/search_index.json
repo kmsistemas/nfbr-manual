@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "Conhe\u00e7a agora o\n\u00ab",
+            "text": "Conhe\u00e7a o NF-BR\n\u00ab",
             "title": "In\u00edcio"
         },
         {
-            "location": "/#conheca-agora-o",
+            "location": "/#conheca-o-nf-br",
             "text": "",
-            "title": "Conhe\u00e7a agora o"
+            "title": "Conhe\u00e7a o NF-BR"
         },
         {
             "location": "/nfbr/cadastro/nfbr-tela-login/",
